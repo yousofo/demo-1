@@ -1,6 +1,3 @@
-document.querySelector(".header .btn").addEventListener("click", ()=>{
-  document.querySelector(".landing .imgs").classList.toggle("active")
-})
 document.querySelector(".header .bars i").addEventListener("click", ()=>{
   document.querySelector(".landing .links").classList.toggle("active")
 })
